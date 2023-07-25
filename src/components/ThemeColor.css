@@ -1,0 +1,25 @@
+.theme-color {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+.color div {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  margin-left: 15px;
+  border-radius: 50%;
+}
+
+.togle-mode {
+  margin-right: auto;
+}
+
+.togle-mode img {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}

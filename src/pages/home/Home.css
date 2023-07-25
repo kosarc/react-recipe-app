@@ -1,0 +1,9 @@
+.home {
+  max-width: 1200px;
+  margin: 60px auto;
+  text-align: center;
+}
+
+.dark {
+  color: #e4e4e4;
+}
